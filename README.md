@@ -39,4 +39,4 @@ O objetivo deste projeto foi praticar desenvolvimento web, organização de layo
 
 Projeto disponível online através do GitHub Pages:
 
-🔗 https://kyootz2019.github.io/projeto-bio/
+🔗 https://cassioribroh.github.io/projeto-bio/
