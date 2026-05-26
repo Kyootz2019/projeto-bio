@@ -35,9 +35,8 @@ O objetivo deste projeto foi praticar desenvolvimento web, organização de layo
 
 ---
 
-## 🛠️ Como Executar
+## 🌍 Acesse o Projeto
 
-### 1. Clone o repositório
+Projeto disponível online através do GitHub Pages:
 
-```bash
-git clone https://github.com/Kyootz2019/projeto-bio.git
+🔗 https://kyootz2019.github.io/projeto-bio/
