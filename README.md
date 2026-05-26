@@ -1,2 +1,43 @@
-# projeto-bio
-Projeto simples e moderno para reunir e exibir minhas redes sociais em um único lugar. Feito para facilitar o acesso ao meu contato, portfólio e perfis online de forma rápida e organizada.
+# 🌐 Projeto Bio
+
+Uma página simples, moderna e responsiva criada para reunir minhas principais redes sociais e links importantes em um só lugar.
+
+---
+
+## ✨ Preview
+
+![Preview do Projeto](./assets/previa-bio.png)
+![Preview do Projeto](./assets/previa-bio2.png)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📱 Funcionalidades
+
+- Links para redes sociais
+- Layout responsivo
+- Design moderno
+- Ícones personalizados
+- Navegação simples e rápida
+
+---
+
+## 🎯 Objetivo do Projeto
+
+O objetivo deste projeto foi praticar desenvolvimento web, organização de layout e criação de interfaces modernas utilizando tecnologias básicas do front-end.
+
+---
+
+## 🛠️ Como Executar
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/Kyootz2019/projeto-bio.git
